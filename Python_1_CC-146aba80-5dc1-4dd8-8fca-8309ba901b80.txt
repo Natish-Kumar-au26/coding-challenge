@@ -1,0 +1,66 @@
+
+
+Week 2- Day 1 : Codinq Challenqe
+
+(Maximum marks -15)
+Q-1 ) Write brief description of all the below commands. (10 Marks)
+
+1. Git pull     -  Git pull is used to copy a repositories from remote to local.
+
+2. Git push     -  Git push is used to copy a repositories from local to remote.
+
+3. Git merge    - Git merge is used for merging the different branches repositories with each others.
+
+4. Git log      - Git log is used to showing the committed files.
+
+5. Git status   - Git status command is used to show the status of files which are in staging area or in unstaging
+                  area.
+
+6. Git commit   - Git commit command is used to move files from the staging area to a commit.
+
+7. Git init     - Git init command creates a new Git repository.
+
+8. Git clone    - Git clone is primarily used to point to an existing repo and make a clone or copy of that repo 
+                  at in a new directory, at another location.
+
+9. Git branch   - Git branch is used to see the how much branches are presents and show the selected branch with 
+                  the star icon .  
+
+10.Git Checkout - Git checkout command lets you navigate between the branches created by git branch.
+
+
+
+
+
+
+
+
+Q-2)Write a simple calculator with +, -, *, / support in python        (5 marks)
+
+(Easy)
+
+ans in phthon 
+ 
+      a = 5
+      b = 2
+      print (a+b, a-b, a*b, a/b)
+sol -     7    3   10  2.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marks distribution:
+Question 1 and 2 carry 10 and 5 marks, respectively
+ 
+
+
